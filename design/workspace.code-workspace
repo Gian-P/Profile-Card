@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Profile_Card_Component"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu-20.04",
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "profile-card-component-main"
+	}
+}

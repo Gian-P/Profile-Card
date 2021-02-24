@@ -1,0 +1,29 @@
+:root{
+    font-size: 18px;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(0, 11%, 12%);
+
+}
+
+section{
+    background: hsl(185, 75%, 39%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+
+.card{
+    width: 350px;
+    border-radius: 20px;
+    background: white;
+}
